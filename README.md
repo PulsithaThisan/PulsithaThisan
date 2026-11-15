@@ -11,11 +11,12 @@
 
 ### 🚀 About Me
 
-- 🎓 BSc (Hons) **Artificial Intelligence & Data Science** student at **IIT Sri Lanka** (awarded by Robert Gordon University)
-- 🏅 IIT Foundation: **Distinction** & **Dean's List**
-- 🤖 Aiming to become an **AI/ML Robotics Engineer**, working where machine learning meets real hardware
-- 🌱 Currently learning **data analysis with Python (NumPy, pandas)** on the way to **machine learning**
-- 👥 Leading my university coursework group and building a **data science group project**
+I'm a builder at heart, curious about how intelligent software can make machines **see, think and act** in the real world.
+
+- 🎓 Studying **Artificial Intelligence & Data Science** at **IIT Sri Lanka** (BSc Hons, awarded by Robert Gordon University)
+- 🤖 My goal: to become an **AI/ML Robotics Engineer**, building robots that learn from data and make their own decisions
+- 🧠 Interested in **machine learning, computer vision, autonomous systems** and the hardware that brings them to life
+- 🌱 Always learning, always building, and sharing it here along the way
 
 ---
 
